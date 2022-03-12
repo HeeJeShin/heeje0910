@@ -1,6 +1,6 @@
  HEEJE😎
 ===
-<a href="https://veiled-wallflower-d6c.notion.site/HEEJE-TIL-06a18fbf6cf64cebaa9c05666204b05e"><img src="https://img.shields.io/badge/HEEJE TIL-000000?style=flat-square&logo=notion&logoColor=white"/></a>  
+<a href="https://veiled-wallflower-d6c.notion.site/Developer-Heeje-s-TIL-06a18fbf6cf64cebaa9c05666204b05e"><img src="https://img.shields.io/badge/HEEJE TIL-000000?style=flat-square&logo=notion&logoColor=white"/></a>  
 
 
 <!-- ## MARKET PROJECT(HIHEEJE)
