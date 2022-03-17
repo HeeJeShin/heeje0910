@@ -1,4 +1,4 @@
-## Hi there~  HEEJE😎's github
+## HEEJE's github
 
  Click here! 
  
